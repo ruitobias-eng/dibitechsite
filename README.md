@@ -1,65 +1,66 @@
-# DiBiTech Engenharia - Site para GitHub Pages
+# DiBiTech Engenharia
 
-Este é o site da DiBiTech Engenharia, especializada em automação industrial e soluções tecnológicas.
+Site oficial da **DiBiTech Engenharia**, empresa especializada em **Automação Industrial**, **Desenvolvimento de Sistemas**, **Infraestrutura de TI**, **Ciência de Dados e Machine Learning** e **Educação Técnica**. O site tem como objetivo apresentar os serviços oferecidos, equipe técnica, projetos realizados e facilitar o contato com clientes e parceiros.
 
-## Como hospedar no GitHub Pages
+> ✅ [Acesse o site online](https://www.dibitech.com.br)
 
-1. **Crie um repositório no GitHub**
-   - Faça login no GitHub
-   - Clique em "New repository"
-   - Nomeie o repositório (ex: `dibitech-site`)
-   - Marque como público
-   - Clique em "Create repository"
+![GitHub Pages](https://img.shields.io/badge/Site-Online-brightgreen?style=flat-square&logo=github)
+![Vite](https://img.shields.io/badge/Vite.js-Framework-blueviolet?style=flat-square&logo=vite&logoColor=white)
 
-2. **Faça upload dos arquivos**
-   - Faça upload de todos os arquivos desta pasta para o repositório
-   - Ou use Git para fazer push dos arquivos:
-     ```bash
-     git init
-     git add .
-     git commit -m "Initial commit"
-     git branch -M main
-     git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-     git push -u origin main
-     ```
+---
 
-3. **Configure o GitHub Pages**
-   - Vá para Settings do repositório
-   - Role até a seção "Pages"
-   - Em "Source", selecione "Deploy from a branch"
-   - Selecione "main" branch e "/ (root)"
-   - Clique em "Save"
+## 🚀 Tecnologias Utilizadas
 
-4. **Acesse seu site**
-   - O site estará disponível em: `https://SEU_USUARIO.github.io/SEU_REPOSITORIO`
-   - Pode levar alguns minutos para ficar online
+- HTML5
+- CSS3
+- JavaScript
+- [Vite.js](https://vitejs.dev) — para desenvolvimento moderno e rápido
+- Design responsivo
+- Template baseado em [HTML5 UP](https://html5up.net)
 
-## Estrutura dos Arquivos
+---
 
-```
-dist/
-├── index.html              # Página principal
-├── vite.svg                # Ícone do Vite
-├── README.md               # Este arquivo
-└── assets/
-    ├── index-r1gF4gNV.css  # Estilos CSS
-    ├── index-VVYyHQzs.js   # JavaScript da aplicação
-    ├── hero_image-BoYNYCpY.jpg # Imagem principal
-    ├── logo-jpPbFh_Y.png   # Logo da empresa
-    └── service_*.png       # Ícones dos serviços
-```
+## 🌐 Seções do Site
 
-## Sobre o Site
+### 🔹 Início
+Apresentação institucional da DiBiTech e chamada para ação.
 
-O site apresenta os serviços da DiBiTech Engenharia:
-- Automação de Processos
-- Desenvolvimento de Sistemas
-- Infraestrutura de TI
-- Ciência de Dados e ML
-- Educação e Treinamento
+### 🔹 Serviços
+- **Automação de Processos**: Projetos com CLPs, IHMs, SCADA.
+- **Desenvolvimento de Sistemas**: Delphi, .NET, Python, APIs, Firebird.
+- **Infraestrutura de TI**: Linux, Windows, redes, cloud, suporte.
+- **Ciência de Dados e ML**: Análise de dados, machine learning e IA.
+- **Educação e Treinamento**: Formação técnica para escolas e empresas.
 
-### Contato
-- Email: ruitobias@dibitech.com.br
+### 🔹 Equipe
+Apresentação dos profissionais:
+
+#### Rui Tobias Carvalho
+Engenharia de Computação | Indústria 4.0  
+Expertise em CLPs, SCADA, redes industriais, Python, bancos de dados, cloud e machine learning.
+
+#### Rodrigo Carvalho
+Engenharia e Inovação Tecnológica  
+Especialista em automação embarcada e sistemas integrados com visão estratégica.
+
+### 🔹 Projetos Realizados
+Casos de sucesso reais, com resultados mensuráveis:
+- **Linha de Produção – Indústria Alimentícia**  
+- **Sistema de Controle de Água – Estação de Tratamento**
+- **Automação Predial Inteligente – Edifício Comercial**
+
+### 🔹 Contato
+Formulário de orçamento + informações de contato:
 - Telefone: (15) 98100-9064
-- Localização: Apiaí - SP, Brasil
+- E-mail: ruitobias@dibitech.com.br
+- Localização: Apiaí - SP
 
+---
+
+## 🧪 Como Rodar Localmente
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Bibolook-eng/dibitechsite.git
+cd dibitechsite
